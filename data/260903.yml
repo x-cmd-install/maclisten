@@ -1,11 +1,13 @@
 about:
-  description: macOS ASR CLI — lightweight speech-to-text
+  description:
+  |
+    macOS ASR CLI — lightweight speech-to-text
   license: Apache-2.0
   homepage: https://maclisten.ljh.sh
   head: 1e265ce
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-03T05:11:02Z
+  collectedAt: 2026-09-03T22:37:23Z
 timeline:
   created: 2026-06-19
   lastCommit: 2026-07-19
@@ -22,7 +24,7 @@ language:
   Swift: 46951
   Shell: 9949
   JavaScript: 3306
-totalLine: 60206
+totalBytes: 60206
 recent:
   last30d:
     since: 2026-08-04
