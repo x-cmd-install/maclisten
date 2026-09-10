@@ -23,7 +23,22 @@ x install maclisten
 - **Latest**: `v0.4.0` (2026-06-27)
 - **Last commit**: 2026-07-19
 - **Assets in release**: 11
-- **Published**: 2026-06-27T10:21:56Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [BUILD_INFO.txt](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt) | 388 B | `other` |
+| [BUILD_INFO.txt.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt.sigstore.json) | 10.1 KiB | `other` |
+| [maclisten-darwin-arm64.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-arm64.tar.xz) | 53.4 KiB | `native/darwin/arm64` |
+| [maclisten-darwin-arm64.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-arm64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/arm64` |
+| [maclisten-darwin-universal.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz) | 108.6 KiB | `native/darwin/x64` |
+| [maclisten-darwin-universal.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz.sigstore.json) | 9.9 KiB | `native/darwin/x64` |
+| [maclisten-darwin-x64.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-x64.tar.xz) | 63.6 KiB | `native/darwin/x64` |
+| [maclisten-darwin-x64.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-x64.tar.xz.sigstore.json) | 10.0 KiB | `native/darwin/x64` |
+| [multiple.intoto.jsonl](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/multiple.intoto.jsonl) | 21.9 KiB | `other` |
+| [SHA256SUMS](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/SHA256SUMS) | 371 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/SHA256SUMS.sigstore.json) | 10.0 KiB | `other` |
 
 ## Popularity
 
@@ -68,8 +83,8 @@ Lowest-scoring checks:
 Install metadata for maclisten lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `maclisten` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/maclisten.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/maclisten.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:38Z._

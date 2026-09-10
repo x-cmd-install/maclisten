@@ -4,7 +4,7 @@
 
 macOS ASR CLI — lightweight speech-to-text
 
-![maclisten](https://repo.x-cmd.io/maclisten.svg)
+![maclisten](https://repo.x-cmd.io/maclisten.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,22 @@ x install maclisten
 - **最新版本**: `v0.4.0` (2026-06-27)
 - **最近提交**: 2026-07-19
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-06-27T10:21:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [BUILD_INFO.txt](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt) | 388 B | `other` |
+| [BUILD_INFO.txt.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt.sigstore.json) | 10.1 KiB | `other` |
+| [maclisten-darwin-arm64.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-arm64.tar.xz) | 53.4 KiB | `native/darwin/arm64` |
+| [maclisten-darwin-arm64.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-arm64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/arm64` |
+| [maclisten-darwin-universal.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz) | 108.6 KiB | `native/darwin/x64` |
+| [maclisten-darwin-universal.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz.sigstore.json) | 9.9 KiB | `native/darwin/x64` |
+| [maclisten-darwin-x64.tar.xz](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-x64.tar.xz) | 63.6 KiB | `native/darwin/x64` |
+| [maclisten-darwin-x64.tar.xz.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-x64.tar.xz.sigstore.json) | 10.0 KiB | `native/darwin/x64` |
+| [multiple.intoto.jsonl](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/multiple.intoto.jsonl) | 21.9 KiB | `other` |
+| [SHA256SUMS](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/SHA256SUMS) | 371 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/SHA256SUMS.sigstore.json) | 10.0 KiB | `other` |
 
 ## 流行度
 
@@ -72,4 +87,4 @@ maclisten 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:41:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:38Z._
