@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 111224,
       "digest": "sha256:530b6b925b9a357b8b7e72509b76e9a6aeadfbd124e9280dd924e3c8522f858f",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz"
