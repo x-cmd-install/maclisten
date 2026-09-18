@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-19 | 4 | 25 | 5 | 1 | 5 | 16 |
-| last180d | 2026-03-21 | 4 | 28 | 5 | 1 | 6 | 39 |
-| 360d | 2025-09-22 | 4 | 28 | 5 | 1 | 6 | 39 |
-| last720d | 2024-09-27 | 4 | 28 | 5 | 1 | 6 | 39 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-20 | 4 | 16 | 5 | 0 | 0 | 16 |
+| last180d | 2026-03-22 | 4 | 28 | 5 | 1 | 6 | 39 |
+| 360d | 2025-09-23 | 4 | 28 | 5 | 1 | 6 | 39 |
+| last720d | 2024-09-28 | 4 | 28 | 5 | 1 | 6 | 39 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for maclisten lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:08:21Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:44:55Z._
