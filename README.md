@@ -4,7 +4,7 @@
 
 macOS ASR CLI — lightweight speech-to-text
 
-![maclisten](https://repo.x-cmd.io/maclisten.svg)
+[![x-cmd/install — maclisten Code Quality Monitoring Repo Card](https://repo.x-cmd.io/maclisten.svg)](https://x-cmd.com/install/maclisten)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **1,528** lines of code across **16** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.7 / 10**
+Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — project was created within the last 90 days. Please review its contents carefully
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 4 | 16 | 5 | 0 | 0 | 16 |
-| last180d | 2026-03-22 | 4 | 28 | 5 | 1 | 6 | 39 |
-| 360d | 2025-09-23 | 4 | 28 | 5 | 1 | 6 | 39 |
-| last720d | 2024-09-28 | 4 | 28 | 5 | 1 | 6 | 39 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 13 | 5 | 0 | 0 | 5 |
+| last180d | 2026-03-24 | 4 | 28 | 5 | 1 | 6 | 39 |
+| 360d | 2025-09-25 | 4 | 28 | 5 | 1 | 6 | 39 |
+| last720d | 2024-09-30 | 4 | 28 | 5 | 1 | 6 | 39 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for maclisten lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:44:55Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:41Z._
