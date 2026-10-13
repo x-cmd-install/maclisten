@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 54644,
       "digest": "sha256:e4615ce291e16849c987bef2136cde231ebb67cf9c1fe654986be8fe46edfcb7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-arm64.tar.xz"
