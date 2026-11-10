@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:14e421c35fd5b941d524ead80e3b86683e36c32a9a785f135a68be784bfa3be6",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10307,
       "digest": "sha256:d3fcc39d1bc454bfe5410d5965b62669e9b2ce5979b43c514d366ae701a7a71c",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/BUILD_INFO.txt.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 111224,
       "digest": "sha256:530b6b925b9a357b8b7e72509b76e9a6aeadfbd124e9280dd924e3c8522f858f",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-universal.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 65096,
       "digest": "sha256:ee915d421c0884a7469c350ad7604ecb2d48007e888ba4fe836e41eb3710d58b",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/maclisten-darwin-x64.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 371,
       "digest": "sha256:fe1f48561c69622f124d231f64c10d85fb503a1da1807860aecdf640b6631bf6",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-06-27T10:21:55Z",
       "updated_at": "2026-06-27T10:21:55Z",
       "browser_download_url": "https://github.com/ljh-sh/maclisten/releases/download/v0.4.0/SHA256SUMS"
